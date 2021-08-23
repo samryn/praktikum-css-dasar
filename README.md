@@ -24,3 +24,6 @@
 
 ### Latihan image gallery
 ![ALT text](https://github.com/samryn/praktikum-css-dasar/blob/main/ss%20hasil/ss%20latihan%20css%20image%20gallery.png)
+
+### praktikum css 1
+![ALT text](https://github.com/samryn/praktikum-css-dasar/blob/main/ss%20hasil/ss%20praktikum%20css.png)
